@@ -1,0 +1,244 @@
+D:\TFS\CIVITALLPRO\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\SharedSettings.json
+D:\TFS\CIVITALLPRO\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\appsettings.Development.json
+D:\TFS\CIVITALLPRO\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\appsettings.json
+D:\TFS\CIVITALLPRO\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\Localization\en.json
+D:\TFS\CIVITALLPRO\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\Civit.ProdDictionary.Host.exe
+D:\TFS\CIVITALLPRO\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\Json\ProdDictionary.json
+D:\TFS\CIVITALLPRO\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\Civit.ProdDictionary.Host.deps.json
+D:\TFS\CIVITALLPRO\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\Civit.ProdDictionary.Host.runtimeconfig.json
+D:\TFS\CIVITALLPRO\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\Civit.ProdDictionary.Host.runtimeconfig.dev.json
+D:\TFS\CIVITALLPRO\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\Civit.ProdDictionary.Host.dll
+D:\TFS\CIVITALLPRO\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\ref\Civit.ProdDictionary.Host.dll
+D:\TFS\CIVITALLPRO\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\Civit.ProdDictionary.Host.pdb
+D:\TFS\CIVITALLPRO\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\Microsoft.SqlServer.Types.dll
+D:\TFS\CIVITALLPRO\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\EntityFrameworkCore.SqlServer.HierarchyId.dll
+D:\TFS\CIVITALLPRO\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\EntityFrameworkCore.SqlServer.HierarchyId.Abstractions.dll
+D:\TFS\CIVITALLPRO\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\IdentityModel.dll
+D:\TFS\CIVITALLPRO\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\IdentityModel.AspNetCore.OAuth2Introspection.dll
+D:\TFS\CIVITALLPRO\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\IdentityServer4.AccessTokenValidation.dll
+D:\TFS\CIVITALLPRO\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\TFS\CIVITALLPRO\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\TFS\CIVITALLPRO\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+D:\TFS\CIVITALLPRO\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
+D:\TFS\CIVITALLPRO\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\TFS\CIVITALLPRO\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\TFS\CIVITALLPRO\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\TFS\CIVITALLPRO\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\TFS\CIVITALLPRO\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\TFS\CIVITALLPRO\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\TFS\CIVITALLPRO\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\Microsoft.Extensions.Localization.Abstractions.dll
+D:\TFS\CIVITALLPRO\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\TFS\CIVITALLPRO\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\TFS\CIVITALLPRO\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\TFS\CIVITALLPRO\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\TFS\CIVITALLPRO\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\TFS\CIVITALLPRO\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\TFS\CIVITALLPRO\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\TFS\CIVITALLPRO\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\NCalc.dll
+D:\TFS\CIVITALLPRO\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\TFS\CIVITALLPRO\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\Swashbuckle.AspNetCore.Annotations.dll
+D:\TFS\CIVITALLPRO\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\TFS\CIVITALLPRO\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\TFS\CIVITALLPRO\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\TFS\CIVITALLPRO\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\TFS\CIVITALLPRO\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\TFS\CIVITALLPRO\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\TFS\CIVITALLPRO\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\TFS\CIVITALLPRO\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\TFS\CIVITALLPRO\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\TFS\CIVITALLPRO\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\TFS\CIVITALLPRO\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TFS\CIVITALLPRO\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\TFS\CIVITALLPRO\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TFS\CIVITALLPRO\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\TFS\CIVITALLPRO\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TFS\CIVITALLPRO\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\TFS\CIVITALLPRO\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TFS\CIVITALLPRO\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\TFS\CIVITALLPRO\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\TFS\CIVITALLPRO\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\TFS\CIVITALLPRO\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\TFS\CIVITALLPRO\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\TFS\CIVITALLPRO\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\TFS\CIVITALLPRO\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\TFS\CIVITALLPRO\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\TFS\CIVITALLPRO\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\Civit.Global.dll
+D:\TFS\CIVITALLPRO\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\Civit.Global.pdb
+D:\TFS\CIVITALLPRO\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\obj\Debug\net5.0\Civit.ProdDictionary.Host.csprojAssemblyReference.cache
+D:\TFS\CIVITALLPRO\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\obj\Debug\net5.0\Civit.ProdDictionary.Host.GeneratedMSBuildEditorConfig.editorconfig
+D:\TFS\CIVITALLPRO\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\obj\Debug\net5.0\Civit.ProdDictionary.Host.AssemblyInfoInputs.cache
+D:\TFS\CIVITALLPRO\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\obj\Debug\net5.0\Civit.ProdDictionary.Host.AssemblyInfo.cs
+D:\TFS\CIVITALLPRO\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\obj\Debug\net5.0\Civit.ProdDictionary.Host.csproj.CoreCompileInputs.cache
+D:\TFS\CIVITALLPRO\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\obj\Debug\net5.0\Civit.ProdDictionary.Host.MvcApplicationPartsAssemblyInfo.cs
+D:\TFS\CIVITALLPRO\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\obj\Debug\net5.0\Civit.ProdDictionary.Host.MvcApplicationPartsAssemblyInfo.cache
+D:\TFS\CIVITALLPRO\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\obj\Debug\net5.0\staticwebassets\Civit.ProdDictionary.Host.StaticWebAssets.Manifest.cache
+D:\TFS\CIVITALLPRO\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\obj\Debug\net5.0\staticwebassets\Civit.ProdDictionary.Host.StaticWebAssets.xml
+D:\TFS\CIVITALLPRO\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\obj\Debug\net5.0\scopedcss\bundle\Civit.ProdDictionary.Host.styles.css
+D:\TFS\CIVITALLPRO\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\obj\Debug\net5.0\Civit.ProdDictionary.Host.RazorTargetAssemblyInfo.cache
+D:\TFS\CIVITALLPRO\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\obj\Debug\net5.0\Civit.ProdDictionary.Host.csproj.CopyComplete
+D:\TFS\CIVITALLPRO\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\obj\Debug\net5.0\Civit.ProdDictionary.Host.dll
+D:\TFS\CIVITALLPRO\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\obj\Debug\net5.0\ref\Civit.ProdDictionary.Host.dll
+D:\TFS\CIVITALLPRO\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\obj\Debug\net5.0\Civit.ProdDictionary.Host.pdb
+D:\TFS\CIVITALLPRO\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\obj\Debug\net5.0\Civit.ProdDictionary.Host.genruntimeconfig.cache
+D:\Nirav\Code\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\SharedSettings.json
+D:\Nirav\Code\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\appsettings.Development.json
+D:\Nirav\Code\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\appsettings.json
+D:\Nirav\Code\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\Localization\en.json
+D:\Nirav\Code\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\Civit.ProdDictionary.Host.exe
+D:\Nirav\Code\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\Json\ProdDictionary.json
+D:\Nirav\Code\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\Civit.ProdDictionary.Host.deps.json
+D:\Nirav\Code\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\Civit.ProdDictionary.Host.runtimeconfig.json
+D:\Nirav\Code\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\Civit.ProdDictionary.Host.runtimeconfig.dev.json
+D:\Nirav\Code\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\Civit.ProdDictionary.Host.dll
+D:\Nirav\Code\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\ref\Civit.ProdDictionary.Host.dll
+D:\Nirav\Code\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\Civit.ProdDictionary.Host.pdb
+D:\Nirav\Code\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\Microsoft.SqlServer.Types.dll
+D:\Nirav\Code\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\EntityFrameworkCore.SqlServer.HierarchyId.dll
+D:\Nirav\Code\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\EntityFrameworkCore.SqlServer.HierarchyId.Abstractions.dll
+D:\Nirav\Code\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\IdentityModel.dll
+D:\Nirav\Code\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\IdentityModel.AspNetCore.OAuth2Introspection.dll
+D:\Nirav\Code\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\IdentityServer4.AccessTokenValidation.dll
+D:\Nirav\Code\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Nirav\Code\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\Nirav\Code\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+D:\Nirav\Code\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
+D:\Nirav\Code\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Nirav\Code\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Nirav\Code\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Nirav\Code\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Nirav\Code\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Nirav\Code\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Nirav\Code\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\Microsoft.Extensions.Localization.Abstractions.dll
+D:\Nirav\Code\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Nirav\Code\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Nirav\Code\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Nirav\Code\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Nirav\Code\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Nirav\Code\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Nirav\Code\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Nirav\Code\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\NCalc.dll
+D:\Nirav\Code\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Nirav\Code\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\Swashbuckle.AspNetCore.Annotations.dll
+D:\Nirav\Code\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Nirav\Code\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Nirav\Code\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Nirav\Code\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Nirav\Code\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\Nirav\Code\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Nirav\Code\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Nirav\Code\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Nirav\Code\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Nirav\Code\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Nirav\Code\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Nirav\Code\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Nirav\Code\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Nirav\Code\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Nirav\Code\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Nirav\Code\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Nirav\Code\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Nirav\Code\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Nirav\Code\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\Nirav\Code\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\Nirav\Code\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\Nirav\Code\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Nirav\Code\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Nirav\Code\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Nirav\Code\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Nirav\Code\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\Civit.Global.dll
+D:\Nirav\Code\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\bin\Debug\net5.0\Civit.Global.pdb
+D:\Nirav\Code\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\obj\Debug\net5.0\Civit.ProdDictionary.Host.csproj.AssemblyReference.cache
+D:\Nirav\Code\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\obj\Debug\net5.0\Civit.ProdDictionary.Host.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nirav\Code\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\obj\Debug\net5.0\Civit.ProdDictionary.Host.AssemblyInfoInputs.cache
+D:\Nirav\Code\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\obj\Debug\net5.0\Civit.ProdDictionary.Host.AssemblyInfo.cs
+D:\Nirav\Code\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\obj\Debug\net5.0\Civit.ProdDictionary.Host.csproj.CoreCompileInputs.cache
+D:\Nirav\Code\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\obj\Debug\net5.0\Civit.ProdDictionary.Host.MvcApplicationPartsAssemblyInfo.cs
+D:\Nirav\Code\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\obj\Debug\net5.0\Civit.ProdDictionary.Host.MvcApplicationPartsAssemblyInfo.cache
+D:\Nirav\Code\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\obj\Debug\net5.0\staticwebassets\Civit.ProdDictionary.Host.StaticWebAssets.Manifest.cache
+D:\Nirav\Code\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\obj\Debug\net5.0\staticwebassets\Civit.ProdDictionary.Host.StaticWebAssets.xml
+D:\Nirav\Code\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\obj\Debug\net5.0\scopedcss\bundle\Civit.ProdDictionary.Host.styles.css
+D:\Nirav\Code\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\obj\Debug\net5.0\Civit.ProdDictionary.Host.RazorTargetAssemblyInfo.cache
+D:\Nirav\Code\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\obj\Debug\net5.0\Civit.ProdDictionary.Host.csproj.CopyComplete
+D:\Nirav\Code\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\obj\Debug\net5.0\Civit.ProdDictionary.Host.dll
+D:\Nirav\Code\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\obj\Debug\net5.0\ref\Civit.ProdDictionary.Host.dll
+D:\Nirav\Code\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\obj\Debug\net5.0\Civit.ProdDictionary.Host.pdb
+D:\Nirav\Code\1-Sandbox\SEL.CIVIT.ALL PROJECTS.REPO\Host\Civit.ProdDictionary\obj\Debug\net5.0\Civit.ProdDictionary.Host.genruntimeconfig.cache
+D:\Nirav\Test_ProdDictionary\Civit.ProdDictionary\obj\Debug\net5.0\Civit.ProdDictionary.Host.dll
+D:\Nirav\Test_ProdDictionary\Civit.ProdDictionary\obj\Debug\net5.0\ref\Civit.ProdDictionary.Host.dll
+D:\Nirav\Test_ProdDictionary\Civit.ProdDictionary\obj\Debug\net5.0\Civit.ProdDictionary.Host.pdb
+D:\Nirav\Test_ProdDictionary\Civit.ProdDictionary\obj\Debug\net5.0\Civit.ProdDictionary.Host.csproj.AssemblyReference.cache
+D:\Nirav\Test_ProdDictionary\Civit.ProdDictionary\obj\Debug\net5.0\Civit.ProdDictionary.Host.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nirav\Test_ProdDictionary\Civit.ProdDictionary\obj\Debug\net5.0\Civit.ProdDictionary.Host.AssemblyInfoInputs.cache
+D:\Nirav\Test_ProdDictionary\Civit.ProdDictionary\obj\Debug\net5.0\Civit.ProdDictionary.Host.AssemblyInfo.cs
+D:\Nirav\Test_ProdDictionary\Civit.ProdDictionary\obj\Debug\net5.0\Civit.ProdDictionary.Host.csproj.CoreCompileInputs.cache
+D:\Nirav\Test_ProdDictionary\Civit.ProdDictionary\obj\Debug\net5.0\Civit.ProdDictionary.Host.MvcApplicationPartsAssemblyInfo.cs
+D:\Nirav\Test_ProdDictionary\Civit.ProdDictionary\obj\Debug\net5.0\Civit.ProdDictionary.Host.MvcApplicationPartsAssemblyInfo.cache
+D:\Nirav\Test_ProdDictionary\Civit.ProdDictionary\bin\Debug\net5.0\appsettings.Development.json
+D:\Nirav\Test_ProdDictionary\Civit.ProdDictionary\bin\Debug\net5.0\Localization\en.json
+D:\Nirav\Test_ProdDictionary\Civit.ProdDictionary\bin\Debug\net5.0\appsettings.json
+D:\Nirav\Test_ProdDictionary\Civit.ProdDictionary\bin\Debug\net5.0\Civit.ProdDictionary.Host.exe
+D:\Nirav\Test_ProdDictionary\Civit.ProdDictionary\bin\Debug\net5.0\Json\ProdDictionary.json
+D:\Nirav\Test_ProdDictionary\Civit.ProdDictionary\bin\Debug\net5.0\Civit.ProdDictionary.Host.deps.json
+D:\Nirav\Test_ProdDictionary\Civit.ProdDictionary\bin\Debug\net5.0\Civit.ProdDictionary.Host.runtimeconfig.json
+D:\Nirav\Test_ProdDictionary\Civit.ProdDictionary\bin\Debug\net5.0\Civit.ProdDictionary.Host.runtimeconfig.dev.json
+D:\Nirav\Test_ProdDictionary\Civit.ProdDictionary\bin\Debug\net5.0\Civit.ProdDictionary.Host.dll
+D:\Nirav\Test_ProdDictionary\Civit.ProdDictionary\bin\Debug\net5.0\ref\Civit.ProdDictionary.Host.dll
+D:\Nirav\Test_ProdDictionary\Civit.ProdDictionary\bin\Debug\net5.0\Civit.ProdDictionary.Host.pdb
+D:\Nirav\Test_ProdDictionary\Civit.ProdDictionary\bin\Debug\net5.0\Civit.Global.dll
+D:\Nirav\Test_ProdDictionary\Civit.ProdDictionary\bin\Debug\net5.0\Microsoft.SqlServer.Types.dll
+D:\Nirav\Test_ProdDictionary\Civit.ProdDictionary\bin\Debug\net5.0\EntityFrameworkCore.SqlServer.HierarchyId.dll
+D:\Nirav\Test_ProdDictionary\Civit.ProdDictionary\bin\Debug\net5.0\EntityFrameworkCore.SqlServer.HierarchyId.Abstractions.dll
+D:\Nirav\Test_ProdDictionary\Civit.ProdDictionary\bin\Debug\net5.0\IdentityModel.dll
+D:\Nirav\Test_ProdDictionary\Civit.ProdDictionary\bin\Debug\net5.0\IdentityModel.AspNetCore.OAuth2Introspection.dll
+D:\Nirav\Test_ProdDictionary\Civit.ProdDictionary\bin\Debug\net5.0\IdentityServer4.AccessTokenValidation.dll
+D:\Nirav\Test_ProdDictionary\Civit.ProdDictionary\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Nirav\Test_ProdDictionary\Civit.ProdDictionary\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\Nirav\Test_ProdDictionary\Civit.ProdDictionary\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+D:\Nirav\Test_ProdDictionary\Civit.ProdDictionary\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
+D:\Nirav\Test_ProdDictionary\Civit.ProdDictionary\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Nirav\Test_ProdDictionary\Civit.ProdDictionary\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Nirav\Test_ProdDictionary\Civit.ProdDictionary\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Nirav\Test_ProdDictionary\Civit.ProdDictionary\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Nirav\Test_ProdDictionary\Civit.ProdDictionary\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Nirav\Test_ProdDictionary\Civit.ProdDictionary\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Nirav\Test_ProdDictionary\Civit.ProdDictionary\bin\Debug\net5.0\Microsoft.Extensions.Localization.Abstractions.dll
+D:\Nirav\Test_ProdDictionary\Civit.ProdDictionary\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Nirav\Test_ProdDictionary\Civit.ProdDictionary\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Nirav\Test_ProdDictionary\Civit.ProdDictionary\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Nirav\Test_ProdDictionary\Civit.ProdDictionary\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Nirav\Test_ProdDictionary\Civit.ProdDictionary\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Nirav\Test_ProdDictionary\Civit.ProdDictionary\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Nirav\Test_ProdDictionary\Civit.ProdDictionary\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Nirav\Test_ProdDictionary\Civit.ProdDictionary\bin\Debug\net5.0\NCalc.dll
+D:\Nirav\Test_ProdDictionary\Civit.ProdDictionary\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Nirav\Test_ProdDictionary\Civit.ProdDictionary\bin\Debug\net5.0\Swashbuckle.AspNetCore.Annotations.dll
+D:\Nirav\Test_ProdDictionary\Civit.ProdDictionary\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Nirav\Test_ProdDictionary\Civit.ProdDictionary\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Nirav\Test_ProdDictionary\Civit.ProdDictionary\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Nirav\Test_ProdDictionary\Civit.ProdDictionary\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Nirav\Test_ProdDictionary\Civit.ProdDictionary\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\Nirav\Test_ProdDictionary\Civit.ProdDictionary\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Nirav\Test_ProdDictionary\Civit.ProdDictionary\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Nirav\Test_ProdDictionary\Civit.ProdDictionary\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Nirav\Test_ProdDictionary\Civit.ProdDictionary\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Nirav\Test_ProdDictionary\Civit.ProdDictionary\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Nirav\Test_ProdDictionary\Civit.ProdDictionary\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Nirav\Test_ProdDictionary\Civit.ProdDictionary\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Nirav\Test_ProdDictionary\Civit.ProdDictionary\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Nirav\Test_ProdDictionary\Civit.ProdDictionary\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Nirav\Test_ProdDictionary\Civit.ProdDictionary\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Nirav\Test_ProdDictionary\Civit.ProdDictionary\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Nirav\Test_ProdDictionary\Civit.ProdDictionary\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Nirav\Test_ProdDictionary\Civit.ProdDictionary\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Nirav\Test_ProdDictionary\Civit.ProdDictionary\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\Nirav\Test_ProdDictionary\Civit.ProdDictionary\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\Nirav\Test_ProdDictionary\Civit.ProdDictionary\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\Nirav\Test_ProdDictionary\Civit.ProdDictionary\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Nirav\Test_ProdDictionary\Civit.ProdDictionary\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Nirav\Test_ProdDictionary\Civit.ProdDictionary\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Nirav\Test_ProdDictionary\Civit.ProdDictionary\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Nirav\Test_ProdDictionary\Civit.ProdDictionary\obj\Debug\net5.0\staticwebassets\Civit.ProdDictionary.Host.StaticWebAssets.Manifest.cache
+D:\Nirav\Test_ProdDictionary\Civit.ProdDictionary\obj\Debug\net5.0\staticwebassets\Civit.ProdDictionary.Host.StaticWebAssets.xml
+D:\Nirav\Test_ProdDictionary\Civit.ProdDictionary\obj\Debug\net5.0\scopedcss\bundle\Civit.ProdDictionary.Host.styles.css
+D:\Nirav\Test_ProdDictionary\Civit.ProdDictionary\obj\Debug\net5.0\Civit.ProdDictionary.Host.RazorTargetAssemblyInfo.cache
+D:\Nirav\Test_ProdDictionary\Civit.ProdDictionary\obj\Debug\net5.0\Civit.ProdDictionary.Host.csproj.CopyComplete
+D:\Nirav\Test_ProdDictionary\Civit.ProdDictionary\obj\Debug\net5.0\Civit.ProdDictionary.Host.genruntimeconfig.cache

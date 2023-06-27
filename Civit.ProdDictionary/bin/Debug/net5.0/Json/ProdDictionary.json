@@ -1,0 +1,3795 @@
+{
+  "1.0": {
+    "STATE_ID": [
+      {
+        "Code": "000",
+        "Value": "N/A"
+      },
+      {
+        "Code": "001",
+        "Value": "Alabama"
+      },
+      {
+        "Code": "002",
+        "Value": "Alaska"
+      },
+      {
+        "Code": "003",
+        "Value": "Arizona"
+      },
+      {
+        "Code": "004",
+        "Value": "Arkansas"
+      },
+      {
+        "Code": "005",
+        "Value": "California"
+      },
+      {
+        "Code": "006",
+        "Value": "Colorado"
+      },
+      {
+        "Code": "007",
+        "Value": "Connecticut"
+      },
+      {
+        "Code": "008",
+        "Value": "Delaware"
+      },
+      {
+        "Code": "009",
+        "Value": "Florida"
+      },
+      {
+        "Code": "010",
+        "Value": "Georgia"
+      },
+      {
+        "Code": "011",
+        "Value": "Hawaii"
+      },
+      {
+        "Code": "012",
+        "Value": "Idaho"
+      },
+      {
+        "Code": "013",
+        "Value": "Illinois"
+      },
+      {
+        "Code": "014",
+        "Value": "Indiana"
+      },
+      {
+        "Code": "015",
+        "Value": "Iowa"
+      },
+      {
+        "Code": "016",
+        "Value": "Kansas"
+      },
+      {
+        "Code": "017",
+        "Value": "Kentucky"
+      },
+      {
+        "Code": "018",
+        "Value": "Louisiana"
+      },
+      {
+        "Code": "019",
+        "Value": "Maine"
+      },
+      {
+        "Code": "020",
+        "Value": "Maryland"
+      },
+      {
+        "Code": "021",
+        "Value": "Massachusetts"
+      },
+      {
+        "Code": "022",
+        "Value": "Michigan"
+      },
+      {
+        "Code": "023",
+        "Value": "Minnesota"
+      },
+      {
+        "Code": "024",
+        "Value": "Mississippi"
+      },
+      {
+        "Code": "025",
+        "Value": "Missouri"
+      },
+      {
+        "Code": "026",
+        "Value": "Montana"
+      },
+      {
+        "Code": "027",
+        "Value": "Nebraska"
+      },
+      {
+        "Code": "028",
+        "Value": "Nevada"
+      },
+      {
+        "Code": "029",
+        "Value": "New Hampshire"
+      },
+      {
+        "Code": "030",
+        "Value": "New Jersey"
+      },
+      {
+        "Code": "031",
+        "Value": "New Mexico"
+      },
+      {
+        "Code": "032",
+        "Value": "New York"
+      },
+      {
+        "Code": "033",
+        "Value": "North Carolina"
+      },
+      {
+        "Code": "034",
+        "Value": "North Dakota"
+      },
+      {
+        "Code": "035",
+        "Value": "Ohio"
+      },
+      {
+        "Code": "036",
+        "Value": "Oklahoma"
+      },
+      {
+        "Code": "037",
+        "Value": "Oregon"
+      },
+      {
+        "Code": "038",
+        "Value": "Pennsylvania"
+      },
+      {
+        "Code": "039",
+        "Value": "Rhode Island"
+      },
+      {
+        "Code": "040",
+        "Value": "South Carolina"
+      },
+      {
+        "Code": "041",
+        "Value": "South Dakota"
+      },
+      {
+        "Code": "042",
+        "Value": "Tennessee"
+      },
+      {
+        "Code": "043",
+        "Value": "Texas"
+      },
+      {
+        "Code": "044",
+        "Value": "Utah"
+      },
+      {
+        "Code": "045",
+        "Value": "Vermont"
+      },
+      {
+        "Code": "046",
+        "Value": "Virginia"
+      },
+      {
+        "Code": "047",
+        "Value": "Washington"
+      },
+      {
+        "Code": "048",
+        "Value": "West Virginia"
+      },
+      {
+        "Code": "049",
+        "Value": "Wisconsin"
+      },
+      {
+        "Code": "050",
+        "Value": "Wyoming"
+      }
+    ],
+    "INSPECTION_CATEGORIES": [
+      {
+        "Code": "000",
+        "Value": "N/A"
+      },
+      {
+        "Code": "001",
+        "Value": "Building"
+      },
+      {
+        "Code": "002",
+        "Value": "Plumbing"
+      },
+      {
+        "Code": "003",
+        "Value": "Electrical"
+      },
+      {
+        "Code": "004",
+        "Value": "Combined inspection"
+      },
+      {
+        "Code": "005",
+        "Value": "Residential use permit (RUP), Certificate of Occupancy"
+      },
+      {
+        "Code": "006",
+        "Value": "Residential wall (masonry or concrete foundation wall)"
+      },
+      {
+        "Code": "007",
+        "Value": "Structural"
+      },
+      {
+        "Code": "008",
+        "Value": "Site Inspection"
+      },
+      {
+        "Code": "009",
+        "Value": "Fire"
+      },
+      {
+        "Code": "010",
+        "Value": "Mechanical"
+      },
+      {
+        "Code": "011",
+        "Value": "Electrical"
+      },
+      {
+        "Code": "012",
+        "Value": "Retaining wall inspection (2 ft. to 4ft)"
+      },
+      {
+        "Code": "013",
+        "Value": "Retaining wall inspection (4 ft. and above or complex structure) "
+      }
+    ],
+    "INSPECTION_TYPES": [
+      {
+        "Code": "001",
+        "Value": "My visits"
+      },
+      {
+        "Code": "002",
+        "Value": "3rd party verifications"
+      }
+    ],
+    "PLAN_DISCIPLINE": [
+      {
+        "Code": "001",
+        "Value": "Architectural"
+      },
+      {
+        "Code": "002",
+        "Value": "Stuctural"
+      },
+      {
+        "Code": "003",
+        "Value": "Plumbing"
+      },
+      {
+        "Code": "004",
+        "Value": "Site"
+      }
+
+    ],
+    "COUNTY_ID": [
+      {
+        "Code": "000",
+        "Value": "N/A",
+        "ParentNode": "STATE_ID"
+      },
+      {
+        "Code": "001",
+        "Value": "Washington County",
+        "ParentNode": "STATE_ID",
+        "ParentID": [ "047" ]
+      }
+    ],
+    "MEMBER_TYPE": [
+      {
+        "Code": "000",
+        "Value": "N/A"
+      },
+      {
+        "Code": "001",
+        "Value": "Contractor name"
+      },
+      {
+        "Code": "002",
+        "Value": "Engineer/architect name"
+      },
+      {
+        "Code": "003",
+        "Value": "Mechanical license agent/designer"
+      },
+      {
+        "Code": "004",
+        "Value": "Plumbing license agent/designer"
+      },
+      {
+        "Code": "005",
+        "Value": "Structural consultant/designer"
+      },
+      {
+        "Code": "006",
+        "Value": "Plot owner"
+      }
+    ],
+    "PROJECT_GROUP": [
+      {
+        "Code": "000",
+        "Value": "N/A"
+      },
+      {
+        "Code": "001",
+        "Value": "Building proposal"
+      },
+      {
+        "Code": "002",
+        "Value": "Zoning/site plan proposal"
+      },
+      {
+        "Code": "003",
+        "Value": "Miscellaneous proposal"
+      }
+    ],
+    "PERMIT_TYPE": [
+      {
+        "Code": "000",
+        "Value": "N/A",
+        "ParentNode": "PROJECT_GROUP",
+        "ParentID": [
+          "000",
+          "001",
+          "002",
+          "003"
+        ],
+        "Properties": {
+          "Order": 0
+        }
+      },
+      {
+        "Code": "001",
+        "Value": "Zoning permit",
+        "ParentNode": "PROJECT_GROUP",
+        "ParentID": [
+          "002"
+        ],
+        "Properties": {
+          "Order": 6
+        }
+      },
+      {
+        "Code": "002",
+        "Value": "Building permit",
+        "ParentNode": "PROJECT_GROUP",
+        "ParentID": [
+          "001"
+        ],
+        "Properties": {
+          "Order": 1
+        }
+      },
+      {
+        "Code": "003",
+        "Value": "Plumbing permit",
+        "ParentNode": "PROJECT_GROUP",
+        "ParentID": [
+          "003"
+        ],
+        "Properties": {
+          "Order": 2
+        }
+      },
+      {
+        "Code": "004",
+        "Value": "Mechanical permit",
+        "ParentNode": "PROJECT_GROUP",
+        "ParentID": [
+          "003"
+        ],
+        "Properties": {
+          "Order": 3
+        }
+      },
+      {
+        "Code": "005",
+        "Value": "Electrical permit",
+        "ParentNode": "PROJECT_GROUP",
+        "ParentID": [
+          "003"
+        ],
+        "Properties": {
+          "Order": 5
+        }
+      },
+      {
+        "Code": "006",
+        "Value": "Fire permit",
+        "ParentNode": "PROJECT_GROUP",
+        "ParentID": [
+          "003"
+        ],
+        "Properties": {
+          "Order": 4
+        }
+      },
+      {
+        "Code": "007",
+        "Value": "Health permit",
+        "ParentNode": "PROJECT_GROUP",
+        "ParentID": [
+          "003"
+        ],
+        "Properties": {
+          "Order": 7
+        }
+      },
+      {
+        "Code": "008",
+        "Value": "Vdot permit",
+        "ParentNode": "PROJECT_GROUP",
+        "ParentID": [
+          "003"
+        ],
+        "Properties": {
+          "Order": 7
+        }
+      }
+    ],
+    "PROJECT_TYPE": [
+      {
+        "Code": "000",
+        "Value": "N/A",
+        "ParentNode": "PROJECT_GROUP",
+        "ParentID": [
+          "000",
+          "001",
+          "002",
+          "003"
+        ]
+      },
+      {
+        "Code": "001",
+        "Value": "New building ",
+        "ParentNode": "PROJECT_GROUP",
+        "ParentID": [
+          "001"
+        ]
+      },
+      {
+        "Code": "002",
+        "Value": "New accessory building",
+        "ParentNode": "PROJECT_GROUP",
+        "ParentID": [
+          "003"
+        ]
+      },
+      {
+        "Code": "003",
+        "Value": "Addition",
+        "ParentNode": "PROJECT_GROUP",
+        "ParentID": [
+          "001"
+        ]
+      },
+      {
+        "Code": "004",
+        "Value": "Alter/remodel heavy",
+        "ParentNode": "PROJECT_GROUP",
+        "ParentID": [
+          "003"
+        ]
+      },
+      {
+        "Code": "005",
+        "Value": "Alter/remodel light",
+        "ParentNode": "PROJECT_GROUP",
+        "ParentID": [
+          "003"
+        ]
+      },
+      {
+        "Code": "006",
+        "Value": "Demolition ",
+        "ParentNode": "PROJECT_GROUP",
+        "ParentID": [
+          "003"
+        ]
+      },
+      {
+        "Code": "007",
+        "Value": "Repair/replacement ",
+        "ParentNode": "PROJECT_GROUP",
+        "ParentID": [
+          "003"
+        ]
+      },
+      {
+        "Code": "008",
+        "Value": "Moving/relocation",
+        "ParentNode": "PROJECT_GROUP",
+        "ParentID": [
+          "003"
+        ]
+      },
+      {
+        "Code": "009",
+        "Value": "Tenant fitup",
+        "ParentNode": "PROJECT_GROUP",
+        "ParentID": [
+          "003"
+        ]
+      },
+      {
+        "Code": "010",
+        "Value": "Residential garage",
+        "ParentNode": "PROJECT_GROUP",
+        "ParentID": [
+          "003"
+        ]
+      },
+      {
+        "Code": "011",
+        "Value": "Residential deck",
+        "ParentNode": "PROJECT_GROUP",
+        "ParentID": [
+          "003"
+        ]
+      },
+      {
+        "Code": "012",
+        "Value": "Open porch",
+        "ParentNode": "PROJECT_GROUP",
+        "ParentID": [
+          "003"
+        ]
+      },
+      {
+        "Code": "013",
+        "Value": "Enclosed porch",
+        "ParentNode": "PROJECT_GROUP",
+        "ParentID": [
+          "003"
+        ]
+      },
+      {
+        "Code": "014",
+        "Value": "Foundations only ",
+        "ParentNode": "PROJECT_GROUP",
+        "ParentID": [
+          "003"
+        ]
+      },
+      {
+        "Code": "015",
+        "Value": "Site plan/zoning ",
+        "ParentNode": "PROJECT_GROUP",
+        "ParentID": [
+          "002"
+        ]
+      },
+      {
+        "Code": "016",
+        "Value": "Swimming pool and spa",
+        "ParentNode": "PROJECT_GROUP",
+        "ParentID": [
+          "003"
+        ]
+      },
+      {
+        "Code": "017",
+        "Value": "Finished basement",
+        "ParentNode": "PROJECT_GROUP",
+        "ParentID": [
+          "003"
+        ]
+      },
+      {
+        "Code": "018",
+        "Value": "Mobile home",
+        "ParentNode": "PROJECT_GROUP",
+        "ParentID": [
+          "001"
+        ]
+      },
+      {
+        "Code": "019",
+        "Value": "New masonry chimney",
+        "ParentNode": "PROJECT_GROUP",
+        "ParentID": [
+          "003"
+        ]
+      },
+      {
+        "Code": "020",
+        "Value": "Antenna",
+        "ParentNode": "PROJECT_GROUP",
+        "ParentID": [
+          "003"
+        ]
+      },
+      {
+        "Code": "021",
+        "Value": "Building sigh",
+        "ParentNode": "PROJECT_GROUP",
+        "ParentID": [
+          "003"
+        ]
+      },
+      {
+        "Code": "022",
+        "Value": "Change of occupancy",
+        "ParentNode": "PROJECT_GROUP",
+        "ParentID": [
+          "003"
+        ]
+      },
+      {
+        "Code": "023",
+        "Value": "Retaining wall",
+        "ParentNode": "PROJECT_GROUP",
+        "ParentID": [
+        ]
+      }
+    ],
+    "PLOTUSE": [
+      {
+        "Code": "000",
+        "Value": "N/A"
+      },
+      {
+        "Code": "001",
+        "Value": "Residential"
+      },
+      {
+        "Code": "002",
+        "Value": "Assembly"
+      },
+      {
+        "Code": "003",
+        "Value": "Business"
+      },
+      {
+        "Code": "004",
+        "Value": "Educational"
+      },
+      {
+        "Code": "005",
+        "Value": "Factory and industrial"
+      },
+      {
+        "Code": "006",
+        "Value": "High hazard"
+      },
+      {
+        "Code": "007",
+        "Value": "Institutional"
+      },
+      {
+        "Code": "008",
+        "Value": "Mercantile"
+      },
+      {
+        "Code": "009",
+        "Value": "Storage"
+      },
+      {
+        "Code": "010",
+        "Value": "Utility and miscellaneous"
+      }
+    ],
+    "CASE_TYPE": [
+      {
+        "Code": "000",
+        "Value": "N/A"
+      },
+      {
+        "Code": "001",
+        "Value": "New proposal"
+      },
+      {
+        "Code": "002",
+        "Value": "Revised proposal"
+      }
+    ],
+    "CODEBOOK": [
+      {
+        "Code": "000",
+        "Value": "N/A"
+      },
+      {
+        "Code": "001",
+        "Value": "IRC (Residential code)"
+      },
+      {
+        "Code": "002",
+        "Value": "IBC (Building code)"
+      },
+      {
+        "Code": "003",
+        "Value": "NFPA (Federal)"
+      },
+      {
+        "Code": "004",
+        "Value": "ADA (federal)"
+      },
+      {
+        "Code": "005",
+        "Value": "FFHA (Federal)"
+      },
+      {
+        "Code": "006",
+        "Value": "IFC (Fire code)"
+      },
+      {
+        "Code": "007",
+        "Value": "IZC (Zoning code)"
+      },
+      {
+        "Code": "008",
+        "Value": "IMC (Mechanical code)"
+      },
+      {
+        "Code": "009",
+        "Value": "IPC (Plumbing code)"
+      },
+      {
+        "Code": "010",
+        "Value": "IEBC (Existing code) "
+      },
+      {
+        "Code": "011",
+        "Value": "IGCC (Green construction)"
+      },
+      {
+        "Code": "012",
+        "Value": "IFGC (Fuel and gas code)"
+      },
+      {
+        "Code": "013",
+        "Value": "ICCPC (Performance code)"
+      },
+      {
+        "Code": "014",
+        "Value": "IPSDC (Private sewage disposal)"
+      },
+      {
+        "Code": "015",
+        "Value": "IPMC (Property maintenance)"
+      },
+      {
+        "Code": "016",
+        "Value": "ISEP (Solar energy provisions)"
+      },
+      {
+        "Code": "017",
+        "Value": "ISPSC (Swimming pool and spa)"
+      },
+      {
+        "Code": "018",
+        "Value": "IWUIC (Wild land-urban interface)"
+      }
+    ],
+    "CLIMATE_ZONE": [
+      {
+        "Code": "000",
+        "Value": "N/A"
+      },
+      {
+        "Code": "001",
+        "Value": "1A"
+      },
+      {
+        "Code": "002",
+        "Value": "1B"
+      },
+      {
+        "Code": "003",
+        "Value": "2A"
+      },
+      {
+        "Code": "004",
+        "Value": "2B"
+      },
+      {
+        "Code": "005",
+        "Value": "3A"
+      },
+      {
+        "Code": "006",
+        "Value": "3B"
+      },
+      {
+        "Code": "007",
+        "Value": "3C"
+      },
+      {
+        "Code": "008",
+        "Value": "4A"
+      },
+      {
+        "Code": "009",
+        "Value": "4B"
+      },
+      {
+        "Code": "010",
+        "Value": "4C"
+      },
+      {
+        "Code": "011",
+        "Value": "5A"
+      },
+      {
+        "Code": "012",
+        "Value": "5B"
+      },
+      {
+        "Code": "013",
+        "Value": "5C"
+      },
+      {
+        "Code": "014",
+        "Value": "6A "
+      },
+      {
+        "Code": "015",
+        "Value": "6B"
+      },
+      {
+        "Code": "016",
+        "Value": "7A"
+      },
+      {
+        "Code": "017",
+        "Value": "7B"
+      },
+      {
+        "Code": "018",
+        "Value": "8A"
+      },
+      {
+        "Code": "019",
+        "Value": "8B"
+      }
+    ],
+    "SPECIAL_ZONE": [
+      {
+        "Code": "000",
+        "Value": "N/A"
+      },
+      {
+        "Code": "001",
+        "Value": "Solar ready zones "
+      },
+      {
+        "Code": "002",
+        "Value": "Tropical zones"
+      },
+      {
+        "Code": "003",
+        "Value": "Flood hazard areas/coastal high-hazard areas"
+      }
+    ],
+    "SNOW_LOAD_CATEGORY": [
+      {
+        "Code": "000",
+        "Value": "N/A"
+      },
+      {
+        "Code": "001",
+        "Value": "Very heavy (>70 psf)"
+      },
+      {
+        "Code": "002",
+        "Value": "Moderate to heavy(50-70)"
+      },
+      {
+        "Code": "003",
+        "Value": "Slight to moderate(30-50)"
+      },
+      {
+        "Code": "004",
+        "Value": "None to slight (0-30)"
+      }
+    ],
+    "WIND_LOAD_CATEGORY": [
+      {
+        "Code": "000",
+        "Value": "N/A"
+      },
+      {
+        "Code": "001",
+        "Value": "130 MPH"
+      },
+      {
+        "Code": "002",
+        "Value": "160 MPH"
+      },
+      {
+        "Code": "003",
+        "Value": "200 MPH"
+      },
+      {
+        "Code": "004",
+        "Value": "250 MPH"
+      }
+    ],
+    "SEISMIC_DESIGN_CATEGORIES": [
+      {
+        "Code": "000",
+        "Value": "N/A"
+      },
+      {
+        "Code": "001",
+        "Value": "A"
+      },
+      {
+        "Code": "002",
+        "Value": "B"
+      },
+      {
+        "Code": "003",
+        "Value": "C"
+      },
+      {
+        "Code": "004",
+        "Value": "D0"
+      },
+      {
+        "Code": "005",
+        "Value": "D1"
+      },
+      {
+        "Code": "006",
+        "Value": "D2"
+      },
+      {
+        "Code": "007",
+        "Value": "E"
+      }
+    ],
+    "DRAWING_TYPE": [
+      {
+        "Code": "000",
+        "Value": "N/A"
+      },
+      {
+        "Code": "001",
+        "Value": "Architectural "
+      },
+      {
+        "Code": "002",
+        "Value": "Zoning "
+      },
+      {
+        "Code": "003",
+        "Value": "Structural "
+      },
+      {
+        "Code": "004",
+        "Value": "Mechanical"
+      },
+      {
+        "Code": "005",
+        "Value": "Plumbing "
+      },
+      {
+        "Code": "006",
+        "Value": "Fire "
+      },
+      {
+        "Code": "007",
+        "Value": "Energy "
+      },
+      {
+        "Code": "008",
+        "Value": "Fuel & gas"
+      },
+      {
+        "Code": "009",
+        "Value": "Electrical "
+      }
+    ],
+    "ZONING_DISTRICT": [
+      {
+        "Code": "000",
+        "Value": "N/A"
+      },
+      {
+        "Code": "001",
+        "Value": "A, Division 1"
+      },
+      {
+        "Code": "002",
+        "Value": "A, Division 2"
+      },
+      {
+        "Code": "003",
+        "Value": "A, Division 3"
+      },
+      {
+        "Code": "004",
+        "Value": "C, Division 1"
+      },
+      {
+        "Code": "005",
+        "Value": "C, Division 2"
+      },
+      {
+        "Code": "006",
+        "Value": "C, Division 3"
+      },
+      {
+        "Code": "007",
+        "Value": "C, Division 4"
+      },
+      {
+        "Code": "008",
+        "Value": "CR, Division 1"
+      },
+      {
+        "Code": "009",
+        "Value": "CR, Division 2"
+      },
+      {
+        "Code": "010",
+        "Value": "FI, Division 1"
+      },
+      {
+        "Code": "011",
+        "Value": "FI, Division 2"
+      },
+      {
+        "Code": "012",
+        "Value": "FI, Division 3"
+      },
+      {
+        "Code": "013",
+        "Value": "R, Division 1"
+      },
+      {
+        "Code": "014",
+        "Value": "R, Division 2"
+      },
+      {
+        "Code": "015",
+        "Value": "R, Division 3"
+      }
+    ],
+    "CnsltType": [
+      {
+        "Code": "000",
+        "Value": "N/A"
+      },
+      {
+        "Code": "001",
+        "Value": "Mechanical Consultant"
+      },
+      {
+        "Code": "002",
+        "Value": "Plumbing Consultant"
+      },
+      {
+        "Code": "003",
+        "Value": "Structural Consultant"
+      },
+      {
+        "Code": "004",
+        "Value": "Electrical Consultant"
+      },
+      {
+        "Code": "005",
+        "Value": "Fire Consultant"
+      }
+    ],
+    "SPRINKLER_TYPE": [
+      {
+        "Code": "000",
+        "Value": "N/A"
+      },
+      {
+        "Code": "001",
+        "Value": "Full"
+      },
+      {
+        "Code": "002",
+        "Value": "Partial"
+      }
+    ],
+    "LANDUSE_ZONE": [
+      {
+        "Code": "000",
+        "Value": "N/A",
+        "ParentNode": "ZONING_DISTRICT",
+        "ParentID": [
+          "000",
+          "001",
+          "002",
+          "003",
+          "004",
+          "005",
+          "006",
+          "007",
+          "008",
+          "009",
+          "010",
+          "011",
+          "012",
+          "013",
+          "014",
+          "015"
+        ]
+      },
+      {
+        "Code": "001",
+        "Value": "Residential zone",
+        "ParentNode": "ZONING_DISTRICT",
+        "ParentID": [
+          "013",
+          "014",
+          "015"
+        ]
+      },
+      {
+        "Code": "002",
+        "Value": "Agricultural zone",
+        "ParentNode": "ZONING_DISTRICT",
+        "ParentID": [
+          "001",
+          "002",
+          "003"
+        ]
+      },
+      {
+        "Code": "003",
+        "Value": "Commercial zone",
+        "ParentNode": "ZONING_DISTRICT",
+        "ParentID": [
+          "004",
+          "005",
+          "006",
+          "007"
+        ]
+      },
+      {
+        "Code": "004",
+        "Value": "Commercial/residential zone",
+        "ParentNode": "ZONING_DISTRICT",
+        "ParentID": [
+          "008",
+          "009"
+        ]
+      },
+      {
+        "Code": "005",
+        "Value": "Factory/industrial zone",
+        "ParentNode": "ZONING_DISTRICT",
+        "ParentID": [
+          "100",
+          "011",
+          "012"
+        ]
+      }
+    ],
+    "BUILDING_USEGROUP": [
+      {
+        "Code": "000",
+        "Value": "N/A",
+        "ParentNode": "PLOTUSE",
+        "ParentID": [
+          "000",
+          "001",
+          "002",
+          "003",
+          "004",
+          "005",
+          "006",
+          "007",
+          "008",
+          "009",
+          "010"
+        ]
+      },
+      {
+        "Code": "001",
+        "Value": "R-1",
+        "ParentNode": "PLOTUSE",
+        "ParentID": [
+          "001"
+        ]
+      },
+      {
+        "Code": "002",
+        "Value": "R-2",
+        "ParentNode": "PLOTUSE",
+        "ParentID": [
+          "001"
+        ]
+      },
+      {
+        "Code": "003",
+        "Value": "R-3",
+        "ParentNode": "PLOTUSE",
+        "ParentID": [
+          "001"
+        ]
+      },
+      {
+        "Code": "004",
+        "Value": "R-4",
+        "ParentNode": "PLOTUSE",
+        "ParentID": [
+          "001"
+        ]
+      },
+      {
+        "Code": "005",
+        "Value": "A-1",
+        "ParentNode": "PLOTUSE",
+        "ParentID": [
+          "002"
+        ]
+      },
+      {
+        "Code": "006",
+        "Value": "A-2",
+        "ParentNode": "PLOTUSE",
+        "ParentID": [
+          "002"
+        ]
+      },
+      {
+        "Code": "007",
+        "Value": "A-3",
+        "ParentNode": "PLOTUSE",
+        "ParentID": [
+          "002"
+        ]
+      },
+      {
+        "Code": "008",
+        "Value": "A-4",
+        "ParentNode": "PLOTUSE",
+        "ParentID": [
+          "002"
+        ]
+      },
+      {
+        "Code": "009",
+        "Value": "A-5",
+        "ParentNode": "PLOTUSE",
+        "ParentID": [
+          "002"
+        ]
+      },
+      {
+        "Code": "010",
+        "Value": "B",
+        "ParentNode": "PLOTUSE",
+        "ParentID": [
+          "003"
+        ]
+      },
+      {
+        "Code": "011",
+        "Value": "E",
+        "ParentNode": "PLOTUSE",
+        "ParentID": [
+          "004"
+        ]
+      },
+      {
+        "Code": "012",
+        "Value": "F1",
+        "ParentNode": "PLOTUSE",
+        "ParentID": [
+          "005"
+        ]
+      },
+      {
+        "Code": "013",
+        "Value": "F2",
+        "ParentNode": "PLOTUSE",
+        "ParentID": [
+          "005"
+        ]
+      },
+      {
+        "Code": "014",
+        "Value": "H-1",
+        "ParentNode": "PLOTUSE",
+        "ParentID": [
+          "006"
+        ]
+      },
+      {
+        "Code": "015",
+        "Value": "H-2",
+        "ParentNode": "PLOTUSE",
+        "ParentID": [
+          "006"
+        ]
+      },
+      {
+        "Code": "016",
+        "Value": "H-3",
+        "ParentNode": "PLOTUSE",
+        "ParentID": [
+          "006"
+        ]
+      },
+      {
+        "Code": "017",
+        "Value": "H-4",
+        "ParentNode": "PLOTUSE",
+        "ParentID": [
+          "006"
+        ]
+      },
+      {
+        "Code": "018",
+        "Value": "H-5",
+        "ParentNode": "PLOTUSE",
+        "ParentID": [
+          "006"
+        ]
+      },
+      {
+        "Code": "019",
+        "Value": "I-1",
+        "ParentNode": "PLOTUSE",
+        "ParentID": [
+          "007"
+        ]
+      },
+      {
+        "Code": "020",
+        "Value": "I-2",
+        "ParentNode": "PLOTUSE",
+        "ParentID": [
+          "007"
+        ]
+      },
+      {
+        "Code": "021",
+        "Value": "I-3",
+        "ParentNode": "PLOTUSE",
+        "ParentID": [
+          "007"
+        ]
+      },
+      {
+        "Code": "022",
+        "Value": "I-4",
+        "ParentNode": "PLOTUSE",
+        "ParentID": [
+          "007"
+        ]
+      },
+      {
+        "Code": "023",
+        "Value": "M",
+        "ParentNode": "PLOTUSE",
+        "ParentID": [
+          "008"
+        ]
+      },
+      {
+        "Code": "024",
+        "Value": "S-1",
+        "ParentNode": "PLOTUSE",
+        "ParentID": [
+          "009"
+        ]
+      },
+      {
+        "Code": "025",
+        "Value": "S-2",
+        "ParentNode": "PLOTUSE",
+        "ParentID": [
+          "009"
+        ]
+      },
+      {
+        "Code": "026",
+        "Value": "U",
+        "ParentNode": "PLOTUSE",
+        "ParentID": [
+          "010"
+        ]
+      }
+    ],
+    "PLOTSUBUSE": [
+      {
+        "Code": "000",
+        "Value": "N/A",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "000",
+          "001",
+          "002",
+          "003",
+          "004",
+          "005",
+          "006",
+          "007",
+          "008",
+          "009",
+          "010",
+          "011",
+          "012",
+          "013",
+          "014",
+          "015",
+          "016",
+          "017",
+          "018",
+          "019",
+          "020",
+          "021",
+          "022",
+          "023",
+          "024",
+          "025",
+          "026"
+        ]
+      },
+      {
+        "Code": "001",
+        "Value": "Motion picture theatre",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "005"
+        ]
+      },
+      {
+        "Code": "002",
+        "Value": "Symphony and concert  halls",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "005"
+        ]
+      },
+      {
+        "Code": "003",
+        "Value": "Television and radio studios admitting an audience",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "005"
+        ]
+      },
+      {
+        "Code": "004",
+        "Value": "Theatres",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "005"
+        ]
+      },
+      {
+        "Code": "005",
+        "Value": "Banquet  halls",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "006"
+        ]
+      },
+      {
+        "Code": "006",
+        "Value": "Casinos ( gaming areas)",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "006"
+        ]
+      },
+      {
+        "Code": "007",
+        "Value": "Nightclubs",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "006"
+        ]
+      },
+      {
+        "Code": "008",
+        "Value": "Restaurant, cafeterias and similar dining facilities",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "006"
+        ]
+      },
+      {
+        "Code": "009",
+        "Value": "Taverns and bars",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "006"
+        ]
+      },
+      {
+        "Code": "010",
+        "Value": "Amusement  arcades",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "007"
+        ]
+      },
+      {
+        "Code": "011",
+        "Value": "Bowling alleys",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "007"
+        ]
+      },
+      {
+        "Code": "012",
+        "Value": "Community halls",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "007"
+        ]
+      },
+      {
+        "Code": "013",
+        "Value": "Courtrooms",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "007"
+        ]
+      },
+      {
+        "Code": "014",
+        "Value": "Dance halls",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "007"
+        ]
+      },
+      {
+        "Code": "015",
+        "Value": "Exhibition halls",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "007"
+        ]
+      },
+      {
+        "Code": "016",
+        "Value": "Funeral parlours",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "007"
+        ]
+      },
+      {
+        "Code": "017",
+        "Value": "Greenhouses for the conservation and exhibition of plants that provide public access",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "007"
+        ]
+      },
+      {
+        "Code": "018",
+        "Value": "Gymnasiums",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "007"
+        ]
+      },
+      {
+        "Code": "019",
+        "Value": "Indoor swimming pools",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "007"
+        ]
+      },
+      {
+        "Code": "020",
+        "Value": "Indoor tennis court",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "007"
+        ]
+      },
+      {
+        "Code": "021",
+        "Value": "Lecture halls",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "007"
+        ]
+      },
+      {
+        "Code": "022",
+        "Value": "Libraries",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "007"
+        ]
+      },
+      {
+        "Code": "023",
+        "Value": "Museums",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "007"
+        ]
+      },
+      {
+        "Code": "024",
+        "Value": "Places of religious worship",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "007"
+        ]
+      },
+      {
+        "Code": "025",
+        "Value": "Pool and billiard parlours",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "007"
+        ]
+      },
+      {
+        "Code": "026",
+        "Value": "Waiting areas in transportation terminals",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "007"
+        ]
+      },
+      {
+        "Code": "027",
+        "Value": "Arenas",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "008"
+        ]
+      },
+      {
+        "Code": "028",
+        "Value": "Skating rinks",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "008"
+        ]
+      },
+      {
+        "Code": "029",
+        "Value": "Swimming pools",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "008"
+        ]
+      },
+      {
+        "Code": "030",
+        "Value": "Tennis court",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "008"
+        ]
+      },
+      {
+        "Code": "031",
+        "Value": "Amusement park structures",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "009"
+        ]
+      },
+      {
+        "Code": "032",
+        "Value": "Bleachers",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "009"
+        ]
+      },
+      {
+        "Code": "033",
+        "Value": "Grandstands",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "009"
+        ]
+      },
+      {
+        "Code": "034",
+        "Value": "Stadiums",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "009"
+        ]
+      },
+      {
+        "Code": "035",
+        "Value": "Airport Traffic control towers",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "010"
+        ]
+      },
+      {
+        "Code": "036",
+        "Value": "Ambulatory care facilities",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "010"
+        ]
+      },
+      {
+        "Code": "037",
+        "Value": "Animal hospitals, kennels and pounds",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "010"
+        ]
+      },
+      {
+        "Code": "038",
+        "Value": "Banks",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "010"
+        ]
+      },
+      {
+        "Code": "039",
+        "Value": "Barber and beauty shops",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "010"
+        ]
+      },
+      {
+        "Code": "040",
+        "Value": "Car Wash",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "010"
+        ]
+      },
+      {
+        "Code": "041",
+        "Value": "Civic  Administration",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "010"
+        ]
+      },
+      {
+        "Code": "042",
+        "Value": "Clinic, out patient",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "010"
+        ]
+      },
+      {
+        "Code": "043",
+        "Value": "Dry cleaning and laundries: pick-up and delivery stations and self service",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "010"
+        ]
+      },
+      {
+        "Code": "044",
+        "Value": "Educational  occupancies for students above 12th grade",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "010"
+        ]
+      },
+      {
+        "Code": "045",
+        "Value": "Electronic data processing",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "010"
+        ]
+      },
+      {
+        "Code": "046",
+        "Value": "Food processing - not more than 1500 sq ft",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "010"
+        ]
+      },
+      {
+        "Code": "047",
+        "Value": "laboratories: testing and research",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "010"
+        ]
+      },
+      {
+        "Code": "048",
+        "Value": "Motor vehicle showrooms",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "010"
+        ]
+      },
+      {
+        "Code": "049",
+        "Value": "Post offices",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "010"
+        ]
+      },
+      {
+        "Code": "050",
+        "Value": "Print shop",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "010"
+        ]
+      },
+      {
+        "Code": "051",
+        "Value": "Professional services(architects, attorneys, dentists, etc)",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "010"
+        ]
+      },
+      {
+        "Code": "052",
+        "Value": "Radio and television stations",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "010"
+        ]
+      },
+      {
+        "Code": "053",
+        "Value": "Telephone exchanges",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "010"
+        ]
+      },
+      {
+        "Code": "054",
+        "Value": "religious educational rooms",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "011"
+        ]
+      },
+      {
+        "Code": "055",
+        "Value": "Religious auditoriums",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "011"
+        ]
+      },
+      {
+        "Code": "056",
+        "Value": "Day care facilities",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "011"
+        ]
+      },
+      {
+        "Code": "057",
+        "Value": "Aircraft+C55CC36:C78",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "012"
+        ]
+      },
+      {
+        "Code": "058",
+        "Value": "Appliances",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "012"
+        ]
+      },
+      {
+        "Code": "059",
+        "Value": "Athletic Equipment ",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "012"
+        ]
+      },
+      {
+        "Code": "060",
+        "Value": "Automobiles another motor vehicles",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "012"
+        ]
+      },
+      {
+        "Code": "061",
+        "Value": "Bakeries",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "012"
+        ]
+      },
+      {
+        "Code": "062",
+        "Value": "Beverages",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "012"
+        ]
+      },
+      {
+        "Code": "063",
+        "Value": "Bicycles",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "012"
+        ]
+      },
+      {
+        "Code": "064",
+        "Value": "Boats",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "012"
+        ]
+      },
+      {
+        "Code": "065",
+        "Value": "Brooms or brushes",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "012"
+        ]
+      },
+      {
+        "Code": "066",
+        "Value": "Business machines",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "012"
+        ]
+      },
+      {
+        "Code": "067",
+        "Value": "Cameras and photo equipment",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "012"
+        ]
+      },
+      {
+        "Code": "068",
+        "Value": "Canvas or similar fabric",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "012"
+        ]
+      },
+      {
+        "Code": "069",
+        "Value": "Carpet and rugs",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "012"
+        ]
+      },
+      {
+        "Code": "070",
+        "Value": " Clothing",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "012"
+        ]
+      },
+      {
+        "Code": "071",
+        "Value": "Construction and agricultural machinery",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "012"
+        ]
+      },
+      {
+        "Code": "072",
+        "Value": "Disinfectants",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "012"
+        ]
+      },
+      {
+        "Code": "073",
+        "Value": "Dry cleaning  and dyeing",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "012"
+        ]
+      },
+      {
+        "Code": "074",
+        "Value": "Electric generation plants",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "012"
+        ]
+      },
+      {
+        "Code": "075",
+        "Value": "Electronics",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "012"
+        ]
+      },
+      {
+        "Code": "076",
+        "Value": "Engines",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "012"
+        ]
+      },
+      {
+        "Code": "077",
+        "Value": "Furniture",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "012"
+        ]
+      },
+      {
+        "Code": "078",
+        "Value": "Hemp Products",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "012"
+        ]
+      },
+      {
+        "Code": "079",
+        "Value": "Jute products",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "012"
+        ]
+      },
+      {
+        "Code": "080",
+        "Value": "Laundries",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "012"
+        ]
+      },
+      {
+        "Code": "081",
+        "Value": "Leather products",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "012"
+        ]
+      },
+      {
+        "Code": "082",
+        "Value": "Machinery",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "012"
+        ]
+      },
+      {
+        "Code": "083",
+        "Value": "Metals",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "012"
+        ]
+      },
+      {
+        "Code": "084",
+        "Value": "Millwork",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "012"
+        ]
+      },
+      {
+        "Code": "085",
+        "Value": "Musical instruments",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "012"
+        ]
+      },
+      {
+        "Code": "086",
+        "Value": "Optical goods",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "012"
+        ]
+      },
+      {
+        "Code": "087",
+        "Value": "Paper mills and products",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "012"
+        ]
+      },
+      {
+        "Code": "088",
+        "Value": "Motion pictures and television filming",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "012"
+        ]
+      },
+      {
+        "Code": "089",
+        "Value": "Photographic films",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "012"
+        ]
+      },
+      {
+        "Code": "090",
+        "Value": "Plastic products",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "012"
+        ]
+      },
+      {
+        "Code": "091",
+        "Value": "Printing and publishing",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "012"
+        ]
+      },
+      {
+        "Code": "092",
+        "Value": "Recreational vehicles",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "012"
+        ]
+      },
+      {
+        "Code": "093",
+        "Value": "Refuse incineration",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "012"
+        ]
+      },
+      {
+        "Code": "094",
+        "Value": "Shoes",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "012"
+        ]
+      },
+      {
+        "Code": "095",
+        "Value": "Soap and detergents",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "012"
+        ]
+      },
+      {
+        "Code": "096",
+        "Value": "Textiles",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "012"
+        ]
+      },
+      {
+        "Code": "097",
+        "Value": "Tobacco",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "012"
+        ]
+      },
+      {
+        "Code": "098",
+        "Value": "Trailers",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "012"
+        ]
+      },
+      {
+        "Code": "099",
+        "Value": "Upholstering",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "012"
+        ]
+      },
+      {
+        "Code": "100",
+        "Value": "Wood : Distillation",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "012"
+        ]
+      },
+      {
+        "Code": "101",
+        "Value": "Wood working",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "012"
+        ]
+      },
+      {
+        "Code": "102",
+        "Value": "Beverages: up to and including 16 percent alcohol",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "013"
+        ]
+      },
+      {
+        "Code": "103",
+        "Value": "Brick and masonry",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "013"
+        ]
+      },
+      {
+        "Code": "104",
+        "Value": "Ceramic products",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "013"
+        ]
+      },
+      {
+        "Code": "105",
+        "Value": "Foundries",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "013"
+        ]
+      },
+      {
+        "Code": "106",
+        "Value": "Glass products",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "013"
+        ]
+      },
+      {
+        "Code": "107",
+        "Value": "Gypsum",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "013"
+        ]
+      },
+      {
+        "Code": "108",
+        "Value": "Ice",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "013"
+        ]
+      },
+      {
+        "Code": "109",
+        "Value": "Metal products( fabrication and assembly)",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "013"
+        ]
+      },
+      {
+        "Code": "110",
+        "Value": "Division 1.3 explosive materials",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "014"
+        ]
+      },
+      {
+        "Code": "111",
+        "Value": "Division 1.4 explosive materials",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "014"
+        ]
+      },
+      {
+        "Code": "112",
+        "Value": "Class I,II,IIIA Flammable or combustible liq",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "015"
+        ]
+      },
+      {
+        "Code": "113",
+        "Value": "combustible dusts",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "015"
+        ]
+      },
+      {
+        "Code": "114",
+        "Value": "Cryogenic  fluids, flammable",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "015"
+        ]
+      },
+      {
+        "Code": "115",
+        "Value": "Flammable gases",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "015"
+        ]
+      },
+      {
+        "Code": "116",
+        "Value": "Organic peroxides, class I",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "015"
+        ]
+      },
+      {
+        "Code": "117",
+        "Value": "Oxidizers, Class 3",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "015"
+        ]
+      },
+      {
+        "Code": "118",
+        "Value": "Pyrophoric liquids, solids and gases, non detonable",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "015"
+        ]
+      },
+      {
+        "Code": "119",
+        "Value": "Unstable(reactive) materials",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "015"
+        ]
+      },
+      {
+        "Code": "120",
+        "Value": "Water-reactive materials, class-3",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "015"
+        ]
+      },
+      {
+        "Code": "121",
+        "Value": "Class I,II,IIIA Flammable or combustible liq",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "016"
+        ]
+      },
+      {
+        "Code": "122",
+        "Value": "Combustible fibres",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "016"
+        ]
+      },
+      {
+        "Code": "123",
+        "Value": "Consumer fireworks, 1.4G(Class C)",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "016"
+        ]
+      },
+      {
+        "Code": "124",
+        "Value": "Cryogenic fluids, oxidizing",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "016"
+        ]
+      },
+      {
+        "Code": "125",
+        "Value": "Flammable solids",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "016"
+        ]
+      },
+      {
+        "Code": "126",
+        "Value": "Organic peroxides, Class II and III",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "016"
+        ]
+      },
+      {
+        "Code": "127",
+        "Value": "Oxidizers, Class 2",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "016"
+        ]
+      },
+      {
+        "Code": "128",
+        "Value": "Oxidizers, Class 3",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "016"
+        ]
+      },
+      {
+        "Code": "129",
+        "Value": "Oxidizing gases",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "016"
+        ]
+      },
+      {
+        "Code": "130",
+        "Value": "Unstable (reactive) materials, class 2",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "016"
+        ]
+      },
+      {
+        "Code": "131",
+        "Value": "Water reactive materials,  class 2",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "016"
+        ]
+      },
+      {
+        "Code": "132",
+        "Value": "Corrosives",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "017"
+        ]
+      },
+      {
+        "Code": "133",
+        "Value": "Highly toxic materials",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "017"
+        ]
+      },
+      {
+        "Code": "134",
+        "Value": "Toxic materials",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "017"
+        ]
+      },
+      {
+        "Code": "135",
+        "Value": "Semiconductor fabrication facilities",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "018"
+        ]
+      },
+      {
+        "Code": "136",
+        "Value": "Comparable research",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "018"
+        ]
+      },
+      {
+        "Code": "137",
+        "Value": "Development areas",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "018"
+        ]
+      },
+      {
+        "Code": "138",
+        "Value": "Assisted living facilities",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "019"
+        ]
+      },
+      {
+        "Code": "139",
+        "Value": "Congregate  care  facilities",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "019"
+        ]
+      },
+      {
+        "Code": "140",
+        "Value": "Group homes",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "019"
+        ]
+      },
+      {
+        "Code": "141",
+        "Value": "Halfway houses",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "019"
+        ]
+      },
+      {
+        "Code": "142",
+        "Value": "Social rehabilitation facilities",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "019"
+        ]
+      },
+      {
+        "Code": "143",
+        "Value": "Residential board and care  facilities",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "019"
+        ]
+      },
+      {
+        "Code": "144",
+        "Value": "Detoxification",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "020"
+        ]
+      },
+      {
+        "Code": "145",
+        "Value": "Hospitals",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "020"
+        ]
+      },
+      {
+        "Code": "146",
+        "Value": "Nursing homes",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "020"
+        ]
+      },
+      {
+        "Code": "147",
+        "Value": "Psychiatric hospitals",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "020"
+        ]
+      },
+      {
+        "Code": "148",
+        "Value": "Detention Centres",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "021"
+        ]
+      },
+      {
+        "Code": "149",
+        "Value": "Jails",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "021"
+        ]
+      },
+      {
+        "Code": "150",
+        "Value": "Pre-release Center",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "021"
+        ]
+      },
+      {
+        "Code": "151",
+        "Value": "Prisons",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "021"
+        ]
+      },
+      {
+        "Code": "152",
+        "Value": "Reformatories",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "021"
+        ]
+      },
+      {
+        "Code": "153",
+        "Value": "Adult day care",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "022"
+        ]
+      },
+      {
+        "Code": "154",
+        "Value": "Child day care",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "022"
+        ]
+      },
+      {
+        "Code": "155",
+        "Value": "Department stores",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "023"
+        ]
+      },
+      {
+        "Code": "156",
+        "Value": "Drug stores",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "023"
+        ]
+      },
+      {
+        "Code": "157",
+        "Value": "Markets",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "023"
+        ]
+      },
+      {
+        "Code": "158",
+        "Value": "Greenhouses",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "023"
+        ]
+      },
+      {
+        "Code": "159",
+        "Value": "Motor fuel dispensing facilities",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "023"
+        ]
+      },
+      {
+        "Code": "160",
+        "Value": "Retail or wholesale stores",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "023"
+        ]
+      },
+      {
+        "Code": "161",
+        "Value": "Sales rooms",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "023"
+        ]
+      },
+      {
+        "Code": "162",
+        "Value": "Boarding houses(transient)",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "001"
+        ]
+      },
+      {
+        "Code": "163",
+        "Value": "Congregate living facilities(transient)",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "001"
+        ]
+      },
+      {
+        "Code": "164",
+        "Value": "Hotels (transient)",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "001"
+        ]
+      },
+      {
+        "Code": "165",
+        "Value": "Motels  (transient)",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "001"
+        ]
+      },
+      {
+        "Code": "166",
+        "Value": "Apartment houses",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "002"
+        ]
+      },
+      {
+        "Code": "167",
+        "Value": "Congregate  living facilities",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "002"
+        ]
+      },
+      {
+        "Code": "168",
+        "Value": "Boarding houses",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "002"
+        ]
+      },
+      {
+        "Code": "169",
+        "Value": "Convents",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "002"
+        ]
+      },
+      {
+        "Code": "170",
+        "Value": "Dormitories",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "002"
+        ]
+      },
+      {
+        "Code": "171",
+        "Value": "Fraternities",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "002"
+        ]
+      },
+      {
+        "Code": "172",
+        "Value": "Monasteries",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "002"
+        ]
+      },
+      {
+        "Code": "173",
+        "Value": "Hotel (non-transient)",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "002"
+        ]
+      },
+      {
+        "Code": "174",
+        "Value": "Motel (non-transient)",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "002"
+        ]
+      },
+      {
+        "Code": "175",
+        "Value": "Live and work unites",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "002"
+        ]
+      },
+      {
+        "Code": "176",
+        "Value": "Vacation timeshare properties",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "002"
+        ]
+      },
+      {
+        "Code": "177",
+        "Value": "Boarding houses",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "003"
+        ]
+      },
+      {
+        "Code": "178",
+        "Value": "Convents",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "003"
+        ]
+      },
+      {
+        "Code": "179",
+        "Value": "Dormitories",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "003"
+        ]
+      },
+      {
+        "Code": "180",
+        "Value": "Fraternities and sororities",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "003"
+        ]
+      },
+      {
+        "Code": "181",
+        "Value": "Monasteries  ",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "003"
+        ]
+      },
+      {
+        "Code": "182",
+        "Value": "Congregate  living facilities",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "003"
+        ]
+      },
+      {
+        "Code": "183",
+        "Value": "Boarding houses (transient)",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "003"
+        ]
+      },
+      {
+        "Code": "184",
+        "Value": "Lodging houses (transient)",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "003"
+        ]
+      },
+      {
+        "Code": "185",
+        "Value": "Alcohol and drug centres",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "004"
+        ]
+      },
+      {
+        "Code": "186",
+        "Value": "Assisted living facilities",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "004"
+        ]
+      },
+      {
+        "Code": "187",
+        "Value": "Congregate care facilities",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "004"
+        ]
+      },
+      {
+        "Code": "188",
+        "Value": "Group homes",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "004"
+        ]
+      },
+      {
+        "Code": "189",
+        "Value": "Halfway houses",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "004"
+        ]
+      },
+      {
+        "Code": "190",
+        "Value": "Residential board and care facilities",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "004"
+        ]
+      },
+      {
+        "Code": "191",
+        "Value": "Social rehabilitation facilities",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "004"
+        ]
+      },
+      {
+        "Code": "192",
+        "Value": "Aerosol  products",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "024"
+        ]
+      },
+      {
+        "Code": "193",
+        "Value": "Aircraft hanger",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "024"
+        ]
+      },
+      {
+        "Code": "194",
+        "Value": "Bags : Cloth, burlap and paper",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "024"
+        ]
+      },
+      {
+        "Code": "195",
+        "Value": "Bamboos and rattan",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "024"
+        ]
+      },
+      {
+        "Code": "196",
+        "Value": "Baskets",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "024"
+        ]
+      },
+      {
+        "Code": "197",
+        "Value": "Belting",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "024"
+        ]
+      },
+      {
+        "Code": "198",
+        "Value": "Books and paper rolls",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "024"
+        ]
+      },
+      {
+        "Code": "199",
+        "Value": "Boots and shoes",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "024"
+        ]
+      },
+      {
+        "Code": "200",
+        "Value": "Buttons, including cloth covered, pearl or bone",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "024"
+        ]
+      },
+      {
+        "Code": "201",
+        "Value": "Cardboard and cardboard boxes",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "024"
+        ]
+      },
+      {
+        "Code": "202",
+        "Value": "Clothing, woollen wearing apparel",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "024"
+        ]
+      },
+      {
+        "Code": "203",
+        "Value": "Cordage",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "024"
+        ]
+      },
+      {
+        "Code": "204",
+        "Value": "Dry boat storage( indoor)",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "024"
+        ]
+      },
+      {
+        "Code": "205",
+        "Value": "Furniture",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "024"
+        ]
+      },
+      {
+        "Code": "206",
+        "Value": "Furs",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "024"
+        ]
+      },
+      {
+        "Code": "207",
+        "Value": "Glues, mucilage, pastes and size",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "024"
+        ]
+      },
+      {
+        "Code": "208",
+        "Value": "Grains",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "024"
+        ]
+      },
+      {
+        "Code": "209",
+        "Value": "Horns or combs, other than celluloid",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "024"
+        ]
+      },
+      {
+        "Code": "210",
+        "Value": "Leather",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "024"
+        ]
+      },
+      {
+        "Code": "211",
+        "Value": "Linoleum",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "024"
+        ]
+      },
+      {
+        "Code": "212",
+        "Value": "Lumber",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "024"
+        ]
+      },
+      {
+        "Code": "213",
+        "Value": "Motor vehicle repair garage",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "024"
+        ]
+      },
+      {
+        "Code": "214",
+        "Value": "Photo engravings",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "024"
+        ]
+      },
+      {
+        "Code": "215",
+        "Value": "Resilient flooring",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "024"
+        ]
+      },
+      {
+        "Code": "216",
+        "Value": "Self-service storage facility( mini storage)",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "024"
+        ]
+      },
+      {
+        "Code": "217",
+        "Value": "Silks",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "024"
+        ]
+      },
+      {
+        "Code": "218",
+        "Value": "Soaps",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "024"
+        ]
+      },
+      {
+        "Code": "219",
+        "Value": "Sugar",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "024"
+        ]
+      },
+      {
+        "Code": "220",
+        "Value": "Tires, bulk storage",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "024"
+        ]
+      },
+      {
+        "Code": "221",
+        "Value": "Tobacco, cigars, and snuff",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "024"
+        ]
+      },
+      {
+        "Code": "222",
+        "Value": "Upholstery and  mattresses",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "024"
+        ]
+      },
+      {
+        "Code": "223",
+        "Value": "Wax candles",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "024"
+        ]
+      },
+      {
+        "Code": "224",
+        "Value": "Asbestos",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "025"
+        ]
+      },
+      {
+        "Code": "225",
+        "Value": "Cement in bags",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "025"
+        ]
+      },
+      {
+        "Code": "226",
+        "Value": "Chalk and crayons",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "025"
+        ]
+      },
+      {
+        "Code": "227",
+        "Value": "Dairy products in nonwaxed coated paper container",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "025"
+        ]
+      },
+      {
+        "Code": "228",
+        "Value": "Dry cell batteries",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "025"
+        ]
+      },
+      {
+        "Code": "229",
+        "Value": "Electrical  coils",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "025"
+        ]
+      },
+      {
+        "Code": "230",
+        "Value": "Electrical motors",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "025"
+        ]
+      },
+      {
+        "Code": "231",
+        "Value": "Empty cans",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "025"
+        ]
+      },
+      {
+        "Code": "232",
+        "Value": "Food products",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "025"
+        ]
+      },
+      {
+        "Code": "233",
+        "Value": "Foods in non-combustible containers",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "025"
+        ]
+      },
+      {
+        "Code": "234",
+        "Value": "Fresh fruits and vegetables in no plastic trays or containers",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "025"
+        ]
+      },
+      {
+        "Code": "235",
+        "Value": "Frozen foods",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "025"
+        ]
+      },
+      {
+        "Code": "236",
+        "Value": "Glass",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "025"
+        ]
+      },
+      {
+        "Code": "237",
+        "Value": "Glass bottles, ",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "025"
+        ]
+      },
+      {
+        "Code": "238",
+        "Value": "Gypsum board",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "025"
+        ]
+      },
+      {
+        "Code": "239",
+        "Value": "Inert pigments",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "025"
+        ]
+      },
+      {
+        "Code": "240",
+        "Value": "Ivory",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "025"
+        ]
+      },
+      {
+        "Code": "241",
+        "Value": "Meats",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "025"
+        ]
+      },
+      {
+        "Code": "242",
+        "Value": "Metal cabinets",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "025"
+        ]
+      },
+      {
+        "Code": "243",
+        "Value": "Metal desks with plastic tops and trim",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "025"
+        ]
+      },
+      {
+        "Code": "244",
+        "Value": "Metal  Parts",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "025"
+        ]
+      },
+      {
+        "Code": "245",
+        "Value": "Metal",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "025"
+        ]
+      },
+      {
+        "Code": "246",
+        "Value": "Mirror",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "025"
+        ]
+      },
+      {
+        "Code": "247",
+        "Value": "Oil filled and other types of distribution transformer",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "025"
+        ]
+      },
+      {
+        "Code": "248",
+        "Value": "Parking Garages, Open or enclosed",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "025"
+        ]
+      },
+      {
+        "Code": "249",
+        "Value": "Porcelain and pottery",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "025"
+        ]
+      },
+      {
+        "Code": "250",
+        "Value": "Stoves",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "025"
+        ]
+      },
+      {
+        "Code": "251",
+        "Value": "Talc and soap stones",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "025"
+        ]
+      },
+      {
+        "Code": "252",
+        "Value": "Washers and dryers",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "025"
+        ]
+      },
+      {
+        "Code": "253",
+        "Value": " Agricultural buildings",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "026"
+        ]
+      },
+      {
+        "Code": "254",
+        "Value": "Aircraft hangers, accessory to a one-or two family residence",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "026"
+        ]
+      },
+      {
+        "Code": "255",
+        "Value": "Barns",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "026"
+        ]
+      },
+      {
+        "Code": "256",
+        "Value": "Carport",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "026"
+        ]
+      },
+      {
+        "Code": "257",
+        "Value": "Communication equipment  structures(<1500sqft)",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "026"
+        ]
+      },
+      {
+        "Code": "258",
+        "Value": "Fences more than 6ft",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "026"
+        ]
+      },
+      {
+        "Code": "259",
+        "Value": "Grain silos",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "026"
+        ]
+      },
+      {
+        "Code": "260",
+        "Value": "Livestock shelters",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "026"
+        ]
+      },
+      {
+        "Code": "261",
+        "Value": "Private garage",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "026"
+        ]
+      },
+      {
+        "Code": "262",
+        "Value": "Retaining walls",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "026"
+        ]
+      },
+      {
+        "Code": "263",
+        "Value": "Sheds",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "026"
+        ]
+      },
+      {
+        "Code": "264",
+        "Value": "Stables",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "026"
+        ]
+      },
+      {
+        "Code": "265",
+        "Value": "Tanks",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "026"
+        ]
+      },
+      {
+        "Code": "266",
+        "Value": "Towers",
+        "ParentNode": "BUILDING_USEGROUP",
+        "ParentID": [
+          "026"
+        ]
+      }
+    ],
+    "WORK_TYPE": [
+      {
+        "Code": "001",
+        "Value": "N/A",
+        "ParentNode": "PROJECT_TYPE",
+        "ParentID": [ "001", "006", "008", "009", "010", "012", "013", "014", "015", "017", "018", "019", "020", "022" ]
+      },
+      {
+        "Code": "002",
+        "Value": "Accessory Structure/Building",
+        "ParentNode": "PROJECT_TYPE",
+        "ParentID": [ "002" ]
+      },
+      {
+        "Code": "003",
+        "Value": "Carport",
+        "ParentNode": "PROJECT_TYPE",
+        "ParentID": [ "002" ]
+      },
+      {
+        "Code": "004",
+        "Value": "Garage",
+        "ParentNode": "PROJECT_TYPE",
+        "ParentID": [ "002" ]
+      },
+      {
+        "Code": "005",
+        "Value": "Gazebo",
+        "ParentNode": "PROJECT_TYPE",
+        "ParentID": [ "002" ]
+      },
+      {
+        "Code": "006",
+        "Value": "Pole Barn",
+        "ParentNode": "PROJECT_TYPE",
+        "ParentID": [ "002" ]
+      },
+      {
+        "Code": "007",
+        "Value": "Pool/Bath House",
+        "ParentNode": "PROJECT_TYPE",
+        "ParentID": [ "002" ]
+      },
+      {
+        "Code": "008",
+        "Value": "Shed",
+        "ParentNode": "PROJECT_TYPE",
+        "ParentID": [ "002" ]
+      },
+      {
+        "Code": "009",
+        "Value": "Additional Stories",
+        "ParentNode": "PROJECT_TYPE",
+        "ParentID": [ "003" ]
+      },
+      {
+        "Code": "010",
+        "Value": "Additional canopy/awning",
+        "ParentNode": "PROJECT_TYPE",
+        "ParentID": [ "003" ]
+      },
+      {
+        "Code": "011",
+        "Value": "Interior alteration",
+        "ParentNode": "PROJECT_TYPE",
+        "ParentID": [ "004", "005" ]
+      },
+      {
+        "Code": "012",
+        "Value": "Metal stud only",
+        "ParentNode": "PROJECT_TYPE",
+        "ParentID": [ "004", "005" ]
+      },
+      {
+        "Code": "013",
+        "Value": "Interior demolition",
+        "ParentNode": "PROJECT_TYPE",
+        "ParentID": [ "004", "005" ]
+      },
+      {
+        "Code": "014",
+        "Value": "Modular furniture",
+        "ParentNode": "PROJECT_TYPE",
+        "ParentID": [ "004", "005" ]
+      },
+      {
+        "Code": "015",
+        "Value": "Exterior Waterproofing",
+        "ParentNode": "PROJECT_TYPE",
+        "ParentID": [ "004", "005" ]
+      },
+      {
+        "Code": "016",
+        "Value": "Interior Drain Tile",
+        "ParentNode": "PROJECT_TYPE",
+        "ParentID": [ "004", "005" ]
+      },
+      {
+        "Code": "017",
+        "Value": "Re-roof",
+        "ParentNode": "PROJECT_TYPE",
+        "ParentID": [ "007" ]
+      },
+      {
+        "Code": "018",
+        "Value": "Roof repair",
+        "ParentNode": "PROJECT_TYPE",
+        "ParentID": [ "007" ]
+      },
+      {
+        "Code": "019",
+        "Value": "Chimney Reline",
+        "ParentNode": "PROJECT_TYPE",
+        "ParentID": [ "007" ]
+      },
+      {
+        "Code": "020",
+        "Value": "Chimney Repair",
+        "ParentNode": "PROJECT_TYPE",
+        "ParentID": [ "007" ]
+      },
+      {
+        "Code": "021",
+        "Value": "Foundation repair",
+        "ParentNode": "PROJECT_TYPE",
+        "ParentID": [ "007" ]
+      },
+      {
+        "Code": "022",
+        "Value": "Deck with stairs",
+        "ParentNode": "PROJECT_TYPE",
+        "ParentID": [ "011" ]
+      },
+      {
+        "Code": "023",
+        "Value": "Deck with hot tub",
+        "ParentNode": "PROJECT_TYPE",
+        "ParentID": [ "011" ]
+      },
+      {
+        "Code": "024",
+        "Value": "Multi-level deck",
+        "ParentNode": "PROJECT_TYPE",
+        "ParentID": [ "011" ]
+      },
+      {
+        "Code": "025",
+        "Value": "Single span deck",
+        "ParentNode": "PROJECT_TYPE",
+        "ParentID": [ "011" ]
+      },
+      {
+        "Code": "026",
+        "Value": "Above ground pool",
+        "ParentNode": "PROJECT_TYPE",
+        "ParentID": [ "016" ]
+      },
+      {
+        "Code": "027",
+        "Value": "Inground fibreglass pool",
+        "ParentNode": "PROJECT_TYPE",
+        "ParentID": [ "016" ]
+      },
+      {
+        "Code": "028",
+        "Value": "Inground gunite pool",
+        "ParentNode": "PROJECT_TYPE",
+        "ParentID": [ "016" ]
+      },
+      {
+        "Code": "029",
+        "Value": "Inground vinyl pool",
+        "ParentNode": "PROJECT_TYPE",
+        "ParentID": [ "016" ]
+      },
+      {
+        "Code": "030",
+        "Value": "Attached canopy/awning",
+        "ParentNode": "PROJECT_TYPE",
+        "ParentID": [ "021" ]
+      },
+      {
+        "Code": "031",
+        "Value": "Free standing sign",
+        "ParentNode": "PROJECT_TYPE",
+        "ParentID": [ "021" ]
+      },
+      {
+        "Code": "032",
+        "Value": "Wall mounted sign",
+        "ParentNode": "PROJECT_TYPE",
+        "ParentID": [ "021" ]
+      },
+      {
+        "Code": "033",
+        "Value": "Retaining wall greater than 5 ft.",
+        "ParentNode": "PROJECT_TYPE",
+        "ParentID": [ "023" ]
+      },
+      {
+        "Code": "034",
+        "Value": "Retaining wall less than 5 ft.",
+        "ParentNode": "PROJECT_TYPE",
+        "ParentID": [ "023" ]
+      }
+    ]
+  }
+}

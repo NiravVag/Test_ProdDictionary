@@ -1,0 +1,136 @@
+{
+  "FileManagement": {
+    "Path": "D:\\my-files"
+  },
+  "DbType": "SqlServer",
+  "ConnectionStrings": {
+    "Default": "Data Source=10.160.1.27;Initial Catalog=SELCivit_Dev;User ID=sa;Password=SoftTech@123;MultipleActiveResultSets=true;Integrated Security=False;"
+  },
+  "Settings": {
+    "Abp.Mailing.Smtp.Host": "127.0.0.1",
+    "Abp.Mailing.Smtp.Port": "25",
+    "Abp.Mailing.Smtp.UserName": "",
+    "Abp.Mailing.Smtp.Password": "",
+    "Abp.Mailing.Smtp.Domain": "",
+    "Abp.Mailing.Smtp.EnableSsl": "false",
+    "Abp.Mailing.Smtp.UseDefaultCredentials": "true",
+    "Abp.Mailing.DefaultFromAddress": "noreply@abp.io",
+    "Abp.Mailing.DefaultFromDisplayName": "ABP application"
+  },
+  "AuthServer": {
+    "Authority": "https://dev-identity.autodcr.com",
+    "ApiResource": "Civit",
+    "ApiResourceSecret": "civitsecret",
+    "RequireHttpsMetadata": "false",
+    "SwaggerClientId": "Civit.Swagger",
+    "SwaggerClientSecret": "1q2w3e*"
+  },
+  "JsonPath": {
+    "ProdDictionary": "..\\Civit.Permit.Application.Contracts\\ProdDictionary\\ProdDictionary.json",
+    "Master": "..\\Civit.Permit.Application\\ProdDictionary\\Master.json",
+    "ProjectStructure": "..\\Civit.Permit.Application\\Project\\Structure.json",
+    "Library": "..\\Civit.Permit.Application\\Project\\Library.json"
+  },
+  "RDCaching": {
+    "Enabled": "false",
+    "Configuration": "10.160.1.27"
+  },
+  "StringEncryption": {
+    "DefaultPassPhrase": "2CGnMeMCSVmuvFU3"
+  },
+  "CivitAPIEnableCaching": {
+    "OrgDepartmentList": true,
+    "CachingTimeLimit": 5
+  },
+  "CivitAuditLogs": {
+    "OrgAddEnabled": false,
+    "OrgUpdateEnabled": false,
+    "OrgDeleteEnabled": false,
+    "ProjAddEnabled": true,
+    "PlotAddEnabled": true
+  },
+  "App": {
+    "DbUrl": "https://vacc.civitbuild.in",
+    "SetupUrl": "https://localhost:44347",
+    "PermitUrl": "https://localhost:44361",
+    "ProdAdminUrl": "https://localhost:44315",
+    "ProdDictionaryUrl": "http://10.160.1.27:44350",
+    "SubscriptionUrl": "https://localhost:44383",
+    "APIGatewayUrl": "https://dev-apigateway.autodcr.com:8080",
+    "CorsOrigins": "https://*.Setup.com,http://localhost:3000,https://localhost:44327,https://localhost:44315,https://localhost:44313,http://localhost:3000,http://localhost:4200",
+    "RedirectAllowedUrls": "http://localhost:4200,https://localhost:44307"
+  },
+  "Subscription": {
+    "ClientId": "Civit.UserAccounts",
+    "ClientSecret": "1q2w3e*",
+    "ApiResource": "civit",
+    "ApiResourceSecret": "civitsecret",
+    "CivitBuildDomain": "https://{0}.civitbuild.in",
+    "AuthenticationKey": "SEPl@14553#SEPl"
+  },
+  "Zoom": {
+    "Endpoint": "https://api.zoom.us/v2",
+    "Email": "nikhil.softvan@gmail.com",
+    "ApiKey": "DwYeCp6xRMGv3W8lDkGU6g",
+    "ApiSecret": "Vcj1l7xmag6BPUXHQ1Ff75lwubNHHPzoZrNP"
+  },
+  "ZohoSubscription": {
+    "ProductId": "2815030000000074201",
+    "AuthEndpoint": "https://accounts.zoho.com",
+    "CheckOutPageId": "2fd880f632d10c10ddcc719efbced3456a2bba0f6b053217ad482bf477cf719e",
+    "RefreshToken": "1000.37257efbd4454ea1c3cdfe6648d833f6.a429991f56888aeddfedf82efc46ea66",
+    "ClientId": "1000.PVZ03OIA1L8AUNO967PYQMXEVCR4JF",
+    "ClientSecret": "0cb575087522b380960b3af8072db2e7e6d0cf9196",
+    "Endpoint": "https://subscriptions.zoho.com",
+    "OrganizationId": "759200037",
+    "Plans": {
+      "Free": {
+        "Code": "005",
+        "Users": 1
+      },
+      "Gold": {
+        "Code": "003",
+        "Users": 2,
+        "AddonsUserCode": "ADDON-001"
+      },
+      "Platinum": {
+        "Code": "004",
+        "Users": 10,
+        "AddonsUserCode": "ADDON-002"
+      }
+    }
+  },
+  "Authentication": {
+    "JwtBearer": {
+      "IsEnabled": "true",
+      "SecurityKey": "Softtech_C421AAEE0D114E9C",
+      "Issuer": "https://localhost:44315",
+      "Audience": "Softtech"
+    }
+  },
+  "DefaultEmail": "nikhil@softvan.in",
+  "InspCalendarSettings": {
+    "OfficeHours": {
+      "StartTime": "10:00:00",
+      "EndTime": "16:00:00"
+    },
+    "NoOfSlots": 2,
+    "NoOfDayNextSechedule": 100
+  },
+  "Eversign": {
+    "AccessKey": "c9fec74d094b6f799c46bb0a4f0fa999",
+    "BusinessId": "382800",
+    "Url": "https://api.eversign.com/api/",
+    "ExpiresInDays": 180,
+    "Sandbox": 1,
+    "IsDraft": 0,
+    "Embedded": 0,
+    "UseSignerOrder": 1,
+    "RequireAllSigners": 1,
+    "Reminders": 1,
+    "EmbeddedSigningEnabled": 1,
+    "FlexibleSigning": 1,
+    "UseHiddenTags": 1    
+  },
+  "GetInTouchEmail": ["nikhil@softvan.in"]
+}
